@@ -9,3 +9,7 @@ Assignmennt 2: This assignment was based on mining data off a web page. I was ta
 
 
 Asssignment 3: This was based on the previous assignment. I wrote the data mined to a relational database.
+
+
+
+Assignment 4: I was tasked with mining the first page of the headlines and the number of views in a url @www.nairaland. And writing the data to a csv file.
