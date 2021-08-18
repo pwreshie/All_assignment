@@ -86,7 +86,7 @@ for i in range(1,51):
         results.append((phone_brand, phone_specification, old_price, new_price, phone_rating))
 
     jumia_data = results
-    # jumia_data = [(i[10], i[1], i[2], i[4] for i in jumia_data)]
+    jumia_data = [(i[10], i[1], i[2], i[4] for i in jumia_data)]
 
 # pen.writerows(results)
 # new_file.close()
