@@ -1,4 +1,4 @@
-This repository contains assignments done.
+THIS REPOSITORY CONTAINS ASSIGNMENTS DONE.
 
 Assignment 1: A raw and messy data was provided on a marketing firm, which I then performed data wrangling in order to clean it up. The cleaned/sorted data was then written to a csv file.
 I wrangled further and created an excel file with three sheets; each sheet containing different information.
@@ -13,3 +13,9 @@ Asssignment 3: This was based on the previous assignment. I wrote the data mined
 
 
 Assignment 4: I was tasked with mining the first page of the headlines and the number of views in a url @www.nairaland. And writing the data to a csv file.
+
+
+Assignment 5,6 and 7: 
+
+
+Assignment 8,9 and 10:
