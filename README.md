@@ -19,7 +19,10 @@ Assignment 5,6 and 7: These Assignments were based on working on three csv files
 
 
 Assignment 8 and 9 were practically based on Data Visualization.
-   Assignment 8: Here; I was tasked to label a side-by-side bar chart, given a dataset.
-   Assgnment 9: Using the same dataset, this was based on a visualizing the 4quarters of the year, using line graphs.
+
+Assignment 8: Here; I was tasked to label a side-by-side bar chart, given a dataset.
+
+Assignment 9: Using the same dataset, this was based on visualizing the 4quarters of the year, using line graphs.
+
    
 Assignment 10: A csv file was provided, which was based on working with Staistical Concepts.
